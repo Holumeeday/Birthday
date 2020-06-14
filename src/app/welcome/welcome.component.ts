@@ -11,9 +11,9 @@ export class WelcomeComponent implements OnInit {
   constructor(private routes:Router) { }
 
   ngOnInit(): void {
-    setTimeout(() => {
-      this.routes.navigateByUrl('home');
-    }, 5000)
+    // setTimeout(() => {
+    //   this.routes.navigateByUrl('home');
+    // }, 5000)
   }
 
 }
