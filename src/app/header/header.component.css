@@ -5,7 +5,7 @@
     z-index: 1;
     top: 23%;
     left: 10px;
-    background-color: pink;
+    background-color: #00c08e;;
     opacity: 0.9;
     overflow-x: hidden;
     padding-top: 60px;
@@ -53,7 +53,7 @@
 } */
 
 .navbar-toggler{
-    background-color: pink;
+    background-color: #00c08e;
     border-radius: 10px;
 }
 
@@ -62,7 +62,7 @@
 }
 
 .navbar-brand{
-    font-family: Montserrat;
+    font-family: 'Pacifico', cursive;
     font-style: normal;
     font-weight: normal; 
     color: grey;

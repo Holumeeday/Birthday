@@ -1,10 +1,10 @@
 .back {
     text-decoration: none ;
     font-size: 19px;
-    color: hotpink;
-    position: absolute;
-    top: 3%;
-    left: 1%;
+    font-family: 'Pacifico', cursive;
+    color: #00c08e;
+  position: relative;
+  top: 5%;
 }
 
 #slider {
@@ -22,6 +22,18 @@
 #slider figure img{
     width: 20%;
     float: left;
+}
+
+
+div.scrollmenu{
+    overflow: auto;
+    white-space: nowrap;
+    margin-top: 30px;
+}
+
+div.scrollmenu{
+    overflow: auto;
+    white-space: nowrap;
 }
 
 @keyframes slider {
@@ -56,6 +68,5 @@
 }
 
 p{
-    margin-top: 140%;
-    padding: 10px;
+   
 }
